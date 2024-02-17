@@ -1,0 +1,21 @@
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Basic Shader Manager\cShader.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cShader.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Basic Shader Manager\cShaderManager.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cShaderManager.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\EngineControls\CameraManager.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\CameraManager.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\EngineControls\cWorldConfiguration.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cWorldConfiguration.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\EngineControls\LightManager.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\LightManager.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\EngineControls\MeshManager.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\MeshManager.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\EngineControls\PhysicsManager.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\PhysicsManager.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Models\cControlModel.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cControlModel.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Lighting\cLightManager.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cLightManager.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Physics\cPhysics.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cPhysics.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Models\cMesh.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cMesh.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Lighting\cLightHelper.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cLightHelper.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\cVAOManager\cVAOManager.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cVAOManager.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\cVAOManager\sModelDrawInfo.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\sModelDrawInfo.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\glad.c;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\glad.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\cGlobal.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cGlobal.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Main.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\Main.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Models\LoadModels.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\LoadModels.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Physics\cPhysics_BasicTests.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cPhysics_BasicTests.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Physics\cPhysics_Update.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\cPhysics_Update.obj
+C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\Physics\sPhysicsProperties.cpp;C:\Users\kkvas\OneDrive\Desktop\K2_Engine\K2_Engine\K2_Engine\x64\Release\sPhysicsProperties.obj

@@ -1,0 +1,48 @@
+Mesh Name:Sphere_1_unit_Radius_UV.ply
+Friendly Name:skybox
+Position:7.27524 115 94.5299
+Rotation:0 0 0
+Scale:5000 5000 5000
+Color:1 1 1 1
+Transparency:1
+
+Mesh Name:Park01.fbx
+Friendly Name:park01
+Position:0 0 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+
+Mesh Name:Park02.fbx
+Friendly Name:park02
+Position:24 0 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+
+Mesh Name:Park03.fbx
+Friendly Name:park03
+Position:52 0 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadTurnLeft
+Position:-25 0 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+
+Mesh Name:Ice_01.fbx
+Friendly Name:Ice
+Position:-25 0 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+

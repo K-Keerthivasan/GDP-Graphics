@@ -1,0 +1,1827 @@
+Mesh Name:Sphere_1_unit_Radius_UV.ply
+Friendly Name:skybox
+Position:20 115 95
+Rotation:0 0 0
+Scale:5000 5000 5000
+Color:1 1 1 1
+Transparency:1
+Texture0:
+TextureRatio0:0
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:1
+
+Mesh Name:Big_Flat_Mesh_256x256_00_132K_xyz_n_rgba_uv.ply
+Friendly Name:groundPlane
+Position:-20 -5 0
+Rotation:0 0 0
+Scale:5 1 5
+Color:1 1 1 1
+Transparency:1
+Texture0:SomeGround.bmp
+TextureRatio0:0.5
+Texture1:ice_texture.bmp
+TextureRatio1:0.5
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:NvF5e_height_map.bmp
+HeightMapScale:10
+UseHeightMap:1
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightRight 0
+Position:63 0 -3.95
+Rotation:0 0 0
+Scale:1 1 1.05
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightRight 1
+Position:63 0 4.05
+Rotation:0 0 0
+Scale:1 1 1.05
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightLeft 0
+Position:-41 0 -4.3
+Rotation:0 0 0
+Scale:1 1 1.2
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightLeft 1
+Position:-41 0 4.3
+Rotation:0 0 0
+Scale:1 1 1.2
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 0
+Position:-25 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 1
+Position:-17 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 2
+Position:-9 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 3
+Position:-1 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 4
+Position:7 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 5
+Position:15 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 6
+Position:23 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 7
+Position:31 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 8
+Position:39 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightUp 9
+Position:47 0 -20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 0
+Position:-25 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 1
+Position:-17 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 2
+Position:-9 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 3
+Position:-1 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 4
+Position:7 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 5
+Position:15 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 6
+Position:23 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 7
+Position:31 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 8
+Position:39 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleBase.fbx
+Friendly Name:roadStraightDown 9
+Position:47 0 20
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleTurnLeft.fbx
+Friendly Name:roadTurnLeft
+Position:58.4 0 -15.4
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleTurnRight.fbx
+Friendly Name:roadTurnLeftI
+Position:-36 0 16
+Rotation:0 1.64 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleTurnRight.fbx
+Friendly Name:roadTurnRight
+Position:-36 0 -16
+Rotation:0 -0.06 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RoadDoubleTurnRight.fbx
+Friendly Name:roadTurnRightI
+Position:58.4 0 15.6
+Rotation:0 3.12 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:npc_car_1.fbx
+Friendly Name:car1
+Position:65 0 5
+Rotation:0 0 0
+Scale:0.1 0.1 0.1
+Color:1 1 1 1
+Transparency:1
+Texture0:npc_car_1.bmp
+TextureRatio0:0.5
+Texture1:npc_car_1_with_rust.bmp
+TextureRatio1:0.5
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:npc_car_2.fbx
+Friendly Name:car2
+Position:61 0 5
+Rotation:0 0 0
+Scale:0.1 0.1 0.1
+Color:1 1 1 1
+Transparency:1
+Texture0:npc_car_2.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:npc_car_3.fbx
+Friendly Name:car3
+Position:65 0 0
+Rotation:0 0 0
+Scale:0.1 0.1 0.1
+Color:1 1 1 1
+Transparency:1
+Texture0:npc_car_3.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:npc_car_4.fbx
+Friendly Name:car4
+Position:61 0 0
+Rotation:0 0 0
+Scale:0.1 0.1 0.1
+Color:1 1 1 1
+Transparency:1
+Texture0:npc_car_4.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:House01.fbx
+Friendly Name:house1
+Position:-25 0 -30
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:House02.fbx
+Friendly Name:house2
+Position:-5 0 -30
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:House03.fbx
+Friendly Name:house3
+Position:10 0 -30
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:House04.fbx
+Friendly Name:house4
+Position:30 0 -30
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:House05.fbx
+Friendly Name:house5
+Position:50 0 -30
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:BillboardCylinder.fbx
+Friendly Name:billboard
+Position:-21 20 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:BillboardTexture.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Building01.fbx
+Friendly Name:building1
+Position:-25 0 35
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Building02.fbx
+Friendly Name:building2
+Position:0 0 35
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Building03.fbx
+Friendly Name:building3
+Position:50 0 35
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Building04.fbx
+Friendly Name:building4
+Position:25 0 35
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Building05.fbx
+Friendly Name:building5
+Position:-21 0 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:RandomBuilding.fbx
+Friendly Name:building6
+Position:77 0 0
+Rotation:0 0 0
+Scale:0.2 0.2 0.2
+Color:1 1 1 1
+Transparency:1
+Texture0:RandomBuildingTexture.bmp
+TextureRatio0:0.3
+Texture1:RandomBuildingTextureWGraffitti.bmp
+TextureRatio1:0.7
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:JokerMask.bmp
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Housing01.fbx
+Friendly Name:l_housing0
+Position:-25 0 -34
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Housing01.fbx
+Friendly Name:l_housing1
+Position:-5 0 -34
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Housing01.fbx
+Friendly Name:l_housing2
+Position:15 0 -34
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Housing01.fbx
+Friendly Name:l_housing3
+Position:35 0 -34
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Housing01.fbx
+Friendly Name:l_housing4
+Position:55 0 -34
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Urban02.fbx
+Friendly Name:l_urban0
+Position:-25 0 36
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Urban02.fbx
+Friendly Name:l_urban1
+Position:-5 0 36
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Urban02.fbx
+Friendly Name:l_urban2
+Position:15 0 36
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Urban02.fbx
+Friendly Name:l_urban3
+Position:35 0 36
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Urban02.fbx
+Friendly Name:l_urban4
+Position:55 0 36
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:L_Urban01.fbx
+Friendly Name:l_urban
+Position:-20 0 0
+Rotation:0 0 0
+Scale:1 1 1.3
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Park01.fbx
+Friendly Name:park01
+Position:0 0 -8
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Park01.fbx
+Friendly Name:park02
+Position:0 0 8
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Park02.fbx
+Friendly Name:park03
+Position:24 0 0
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Park03.fbx
+Friendly Name:park04
+Position:47.6 0 -8.2
+Rotation:0 0 0
+Scale:0.65 0.65 0.65
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Park03.fbx
+Friendly Name:park05
+Position:47.6 0 7.6
+Rotation:0 0 0
+Scale:0.65 0.65 0.65
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Ice_03.fbx
+Friendly Name:ice03
+Position:-80 0 0
+Rotation:0 0 0
+Scale:1.5 1.5 1.5
+Color:1 1 1 1
+Transparency:1
+Texture0:ice_texture.bmp
+TextureRatio0:0.5
+Texture1:ice_texture_plain.bmp
+TextureRatio1:0.5
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Ice_04.fbx
+Friendly Name:ice04
+Position:-75 0 -25
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:ice_texture.bmp
+TextureRatio0:0.5
+Texture1:ice_texture_plain.bmp
+TextureRatio1:0.5
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Ice_02.fbx
+Friendly Name:ice02
+Position:-70 15 23
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:0.7
+Texture0:ice_texture.bmp
+TextureRatio0:0.5
+Texture1:ice_texture_plain.bmp
+TextureRatio1:0.5
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Ice_01.fbx
+Friendly Name:ice01
+Position:-120 20 1
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:0.7
+Texture0:ice_texture.bmp
+TextureRatio0:0.5
+Texture1:ice_texture_plain.bmp
+TextureRatio1:0.5
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:Ice_01.fbx
+Friendly Name:ice05
+Position:23.5 2 0
+Rotation:0 0 0
+Scale:0.1 0.1 0.1
+Color:1 1 1 1
+Transparency:0.7
+Texture0:ice_texture.bmp
+TextureRatio0:0.5
+Texture1:ice_texture_plain.bmp
+TextureRatio1:0.5
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightRight 0
+Position:66 0 -5
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightRight 1
+Position:66 0 3
+Rotation:0 0 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightLeft 0
+Position:-46 0 -4.3
+Rotation:0 3.1 0
+Scale:1 1 1.2
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightLeft 1
+Position:-46 0 4.3
+Rotation:0 3.1 0
+Scale:1 1 1.2
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 0
+Position:-25 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 1
+Position:-15 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 2
+Position:-5 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 3
+Position:5 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 4
+Position:15 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 5
+Position:25 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 6
+Position:35 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightUp 7
+Position:45 0 -24
+Rotation:0 1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 0
+Position:-25 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 1
+Position:-15 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 2
+Position:-5 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 3
+Position:5 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 4
+Position:15 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 5
+Position:25 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 6
+Position:35 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+
+Mesh Name:P_Light03.fbx
+Friendly Name:p_lightDown 7
+Position:45 0 23
+Rotation:0 -1.56 0
+Scale:1 1 1
+Color:1 1 1 1
+Transparency:1
+Texture0:PaletteV1.bmp
+TextureRatio0:1
+Texture1:
+TextureRatio1:0
+Texture2:
+TextureRatio2:0
+Texture3:
+TextureRatio3:0
+Mask:
+HeightMap:
+HeightMapScale:0
+UseHeightMap:0
+IsSkybox:0
+

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{09a69902-2939-464f-b479-392ca27f548f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Models">
+      <UniqueIdentifier>{ca69d281-238f-4275-850b-ff190f4f087d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{3dbc39c5-978c-4d22-bea8-f606f44dbd95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics">
+      <UniqueIdentifier>{b5a842a8-705a-419b-b963-814d0698a00b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\cVaoManager">
+      <UniqueIdentifier>{7a28e0f8-9223-404b-aff0-d1ddae427489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shader">
+      <UniqueIdentifier>{7056c804-c569-4b84-9383-c3e5f7a088e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lights">
+      <UniqueIdentifier>{7b2d1777-1f4a-41bf-ae55-fe4dcf026869}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cGlobal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lighting\cLightHelper.cpp">
+      <Filter>Source Files\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Lighting\cLightManager.cpp">
+      <Filter>Source Files\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\cPhysics.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\cPhysics_BasicTests.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\cPhysics_Update.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic Shader Manager\cShader.cpp">
+      <Filter>Source Files\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic Shader Manager\cShaderManager.cpp">
+      <Filter>Source Files\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="cVAOManager\cVAOManager.cpp">
+      <Filter>Source Files\cVaoManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\cMesh.cpp">
+      <Filter>Source Files\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\LoadModels.cpp">
+      <Filter>Source Files\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="cVAOManager\sModelDrawInfo.cpp">
+      <Filter>Source Files\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\sPhysicsProperties.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineControls\CameraManager.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineControls\cWorldConfiguration.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineControls\LightManager.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineControls\MeshManager.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineControls\PhysicsManager.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineControls\Render.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OpenGLCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLWF_CallBacks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cGlobal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lighting\cLightHelper.h">
+      <Filter>Source Files\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="Lighting\cLightManager.h">
+      <Filter>Source Files\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\cMesh.h">
+      <Filter>Source Files\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics\cPhysics.h">
+      <Filter>Source Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics\sPhysicsProperties.h">
+      <Filter>Source Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics\iPhysicsMeshTransformAccess.h">
+      <Filter>Source Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="cVAOManager\cVAOManager.h">
+      <Filter>Source Files\cVaoManager</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineControls\cWorldConfiguration.h">
+      <Filter>Source Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="cVAOManager\sModelDrawInfo.h">
+      <Filter>Source Files\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Basic Shader Manager\cShaderManager.h">
+      <Filter>Source Files\Shader</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="models_attributes.txt" />
+  </ItemGroup>
+</Project>
